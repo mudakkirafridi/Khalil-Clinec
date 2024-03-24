@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "800420041607",
+    "project_id": "khalil-clinec",
+    "storage_bucket": "khalil-clinec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:800420041607:android:e7d895996c4b1a1133f922",
+        "android_client_info": {
+          "package_name": "com.example.kalil_clinec"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0s6HNvS8a0e95XNKigKugKQyMYFdtFps"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
